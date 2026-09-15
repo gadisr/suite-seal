@@ -1,0 +1,15 @@
+{
+  "task_ids": [
+    "coding-task-001",
+    "coding-task-002",
+    "coding-task-003",
+    "reasoning-task-001",
+    "reasoning-task-002"
+  ],
+  "metadata": {
+    "name": "Q3 2026 Benchmark Suite",
+    "version": "1.0",
+    "description": "Private evaluation suite for Q3 2026",
+    "task_count": 5
+  }
+}

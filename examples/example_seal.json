@@ -1,0 +1,21 @@
+{
+  "freeze_date": "2026-09-15T07:40:50.784185+00:00",
+  "hash": "d62affbbe2531d2a0ded8cb6971661ee8dde8e95803516692dcf6d65b077eb1d",
+  "label": "Q3-2026-v1",
+  "payload": {
+    "metadata": {
+      "description": "Private evaluation suite for Q3 2026",
+      "name": "Q3 2026 Benchmark Suite",
+      "task_count": 5,
+      "version": "1.0"
+    },
+    "task_ids": [
+      "coding-task-001",
+      "coding-task-002",
+      "coding-task-003",
+      "reasoning-task-001",
+      "reasoning-task-002"
+    ]
+  },
+  "version": 1
+}
